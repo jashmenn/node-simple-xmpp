@@ -17,13 +17,13 @@
 
     "dependencies": {
         "node-xmpp": ">= 0.2.10",
-        "node-stringprep": ">= 0.0.5",
         "qbox": "0.1.3"
     },
 
     "devDependencies": {
         "ltx": ">= 0.0.5",
         "nodemock": ">= 0.2.13",
+        "node-stringprep": ">= 0.0.5",
         "horaa": ">= 0.1.1alpha"
     },
     
